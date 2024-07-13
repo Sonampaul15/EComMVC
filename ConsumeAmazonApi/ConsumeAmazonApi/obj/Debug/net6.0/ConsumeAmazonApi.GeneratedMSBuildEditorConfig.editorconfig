@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ConsumeAmazonApi
+build_property.RootNamespace = ConsumeAmazonApi
+build_property.ProjectDir = C:\Users\mohit mojito\source\repos\ConsumeAmazonApi\ConsumeAmazonApi\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\mohit mojito\source\repos\ConsumeAmazonApi\ConsumeAmazonApi
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Authentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Authentication/RegisterUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aGVudGljYXRpb25cUmVnaXN0ZXJVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Book/CreateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Book/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xHZXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Clothing/CreateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xvdGhpbmdcQ3JlYXRlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Clothing/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xvdGhpbmdcR2V0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Cosmetics/CreateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zbWV0aWNzXENyZWF0ZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Cosmetics/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29zbWV0aWNzXEdldExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Electronics/CreateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Ryb25pY3NcQ3JlYXRlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Electronics/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlY3Ryb25pY3NcR2V0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Grocery/CreateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvY2VyeVxDcmVhdGVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Grocery/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3JvY2VyeVxHZXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/HomeDecor/CreateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZURlY29yXENyZWF0ZUxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/HomeDecor/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZURlY29yXEdldExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/HomeFurnishing/CreateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUZ1cm5pc2hpbmdcQ3JlYXRlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/HomeFurnishing/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZUZ1cm5pc2hpbmdcR2V0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Jwellery/CreateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSndlbGxlcnlcQ3JlYXRlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Jwellery/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSndlbGxlcnlcR2V0TGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Kitchen/CreateList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0Y2hlblxDcmVhdGVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Kitchen/GetList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0Y2hlblxHZXRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Shared/_Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/mohit mojito/source/repos/ConsumeAmazonApi/ConsumeAmazonApi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ms15wp8y5p

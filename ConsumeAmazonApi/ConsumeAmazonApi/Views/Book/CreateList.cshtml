@@ -1,0 +1,26 @@
+﻿@model ConsumeAmazonApi.DTO.BooksDto
+
+<a asp-action="GetList" asp-controller="Book" class="btn btn-primary"> Back To View</a>
+<form method="post" asp-action="CreateList">
+    <div class="col-md-10">
+        <div>
+            <label>BookName</label>
+            <input type="text" class="form-control" asp-for="BookName" />
+        </div>
+        <div>
+            <label> Description</label>
+            <input type="text" class="form-control" asp-for="Description" />
+        </div>
+        <div>
+            <label>Price</label>
+            <input type="text" class="form-control" asp-for="Price" />
+        </div>
+        <div>
+            <label>Author</label>
+            <input type="text" class="form-control" asp-for="Author" />
+        </div>
+        <div>
+            <button type="submit" class="btn btn-success">Save</button>
+        </div>
+    </div>
+</form>
